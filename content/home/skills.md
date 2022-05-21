@@ -17,11 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 90%
-    icon: "python-brands"
+    icon: python-brands
     icon_pack: fab
     name: Python
   - description: 100%
-    icon: "piano"
+    icon: piano
     icon_pack: fas
     name: Piano
 # Uncomment to use emoji icons.
