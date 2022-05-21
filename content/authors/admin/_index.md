@@ -26,7 +26,7 @@ education:
   courses:
     - course: 1 курс программы «Прикладная математика и информатика»
       institution: РУДН
-      year: 2021
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,7 +56,7 @@ social:
     link: https://elibrary.ru/https://arxiv.org/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/milhani
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
