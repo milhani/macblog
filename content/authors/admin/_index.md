@@ -74,4 +74,4 @@ highlight_name: true
 
 Меня зовут Ханина Людмила. Я студентка первого курса программы «Прикладная математика и информатика».
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
