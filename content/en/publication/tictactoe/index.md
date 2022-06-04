@@ -1,0 +1,39 @@
+---
+title: 'Decided to make tic-tac-toe'
+
+authors:
+  - admin
+
+author_notes:
+  - 'Equal contribution'
+
+date: '2022-05-28T00:00:00Z'
+doi: ''
+
+publishDate: '2022-05-27T00:00:00Z'
+
+publication_types: ['1']
+
+
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
+
+abstract: For the sake of practice, python made tic-tac-toe. Come see!
+
+
+summary: An easy game to brush up on python knowledge
+
+tags: []
+
+featured: true
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
+
+
+projects:
+  - tictactoe
+
+---
